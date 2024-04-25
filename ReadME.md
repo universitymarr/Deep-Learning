@@ -3,8 +3,8 @@
 | ------------- | ------------- | ------------ | ------------ |
 | Slides | No | - | |
 | Practicals | No | - | |
-| Summaries | Yes | March 2024 | More in 'Notes' |
-| Exam's questions | Yes | March 2024 | |
+| Summaries | Yes | April 2024 | More in 'Notes' |
+| Exam's questions | Yes | April 2024 | |
 
 > **NOTES:** <br>
 > 1. <b>Slides</b> and <b>Practicals</b> have not been inserted in the repo since they might change from year to year, so it would be pointless
